@@ -1,25 +1,29 @@
 # Heart-disease-prediction
 feature selection algorithms that used:
-1- Correlation
-2- variance threshold
-3- Recursive feature elimination(RFE)
-4- Forward
-5- Backward
-6- Ridge
+<ul>
+<li>1- Correlation</li>
+<li>2- variance threshold</li>
+<li>3- Recursive feature elimination(RFE)</li>
+<li>4- Forward</li>
+<li>5- Backward</li>
+<li>6- Ridge</li>
+</ul>
 
 Machine learning algorithms that used:
-1- Support vector machine
-2- Logistic Regression
-3- Naive Bayes
-4- k-nearest neighbor
-5- Decision Tree
-6- Random Forest
-7- Neural Network
-8- XGBoost
-9- StochasticGradientDescent
-10- AdaBoost
-11- LightGBM
-12- catBoost
+<ul>
+<li>1- Support vector machine</li>
+<li>2- Logistic Regression</li>
+<li>3- Naive Bayes</li>
+<li>4- k-nearest neighbor</li>
+<li>5- Decision Tree</li>
+<li>6- Random Forest</li>
+<li>7- Neural Network</li>
+<li>8- XGBoost</li>
+<li>9- StochasticGradientDescent</li>
+<li>10- AdaBoost</li>
+<li>11- LightGBM</li>
+<li>12- catBoost</li>
+</ul>
 
 # Introduction
 
